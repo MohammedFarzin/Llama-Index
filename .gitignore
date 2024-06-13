@@ -1,3 +1,4 @@
 llamaindex/
 data/
 .env
+storage
